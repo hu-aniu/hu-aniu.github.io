@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Alan Hu",
+    "subTitle":"一个帅出天际的帅哥",
+    "avatarUrl":"https://telegraph-image-92x.pages.dev/file/70e4dcb21cbedba5ecb8c-27285ce11825d0596c.jpg",
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
