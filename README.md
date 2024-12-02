@@ -1,4 +1,4 @@
-# Alan Hu :link: https://hu-aniu.github.io 
+# Alan Hu :link: https://aniu666.us.kg 
 ### :page_facing_up: [1](https://hu-aniu.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 33 
