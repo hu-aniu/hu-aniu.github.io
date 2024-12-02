@@ -2,5 +2,8 @@
     "title":"Alan Hu",
     "subTitle":"你好，我是Alan Hu,一个帅出天际的帅哥🤣",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
+    "singlePage":["about"],
 }
