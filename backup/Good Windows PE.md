@@ -13,7 +13,7 @@ FirPE它具有简约、易操作、纯净无广等特点，使用起来十分人
 
 这是一款很多大神都在推荐的PE，同样的纯净无广，主打的就是化繁为简，小材大用。但由于体积小巧，它没有网卡驱动，没办法在PE环境下下载系统镜像。
 
-![wepe](https://telegraph-image-92x.pages.dev/file/48cc7117dcdce3dc8d551-4988150d042d102340.png "wepe")
+![wepe](https://img1.baidu.com/it/u=1438054117,3104275764&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=500)
 
 > https://wepe.cn/
 
@@ -23,6 +23,6 @@ FirPE它具有简约、易操作、纯净无广等特点，使用起来十分人
 
 这个PE的名称是⌈无界⌋的意思，它可以自定义设置和里面的软件，而且它半开源，没有广告和收费。但由于使用win10pe的原因，它对老电脑支持不太友好。
 
-![edgeless](https://telegraph-image-92x.pages.dev/file/04544f1fc9017be071670-a59b557d65341c92d1.png "edgeless")
+![edgeless](https://i1.hdslb.com/bfs/archive/b038c5998afbbb0ed6d08cb49eea7875797f04bd.jpg@320w_200h_1c_%21web-space-favlist-video.webp)
 
 > https://home.edgeless.top/
