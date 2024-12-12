@@ -1,12 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Alan Hu</title><link>https://hu-aniu.github.io</link><description>你好，我是Alan Hu,一个帅出天际的帅哥🤣</description><copyright>Alan Hu</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img0.baidu.com/it/u=2381411310,900662946&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG?w=800&amp;h=800</url><title>avatar</title><link>https://hu-aniu.github.io</link></image><lastBuildDate>Mon, 02 Dec 2024 14:42:31 +0000</lastBuildDate><managingEditor>Alan Hu</managingEditor><ttl>60</ttl><webMaster>Alan Hu</webMaster><item><title>Good Windows PE</title><link>https://hu-aniu.github.io/post/Good%20Windows%20PE.html</link><description># FirPE&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Alan Hu</title><link>https://hu-aniu.github.io</link><description>你好，我是Alan Hu,一个帅出天际的帅哥🤣</description><copyright>Alan Hu</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img0.baidu.com/it/u=2381411310,900662946&amp;fm=253&amp;fmt=auto&amp;app=138&amp;f=JPEG?w=800&amp;h=800</url><title>avatar</title><link>https://hu-aniu.github.io</link></image><lastBuildDate>Thu, 12 Dec 2024 15:15:29 +0000</lastBuildDate><managingEditor>Alan Hu</managingEditor><ttl>60</ttl><webMaster>Alan Hu</webMaster><item><title>Good Windows PE</title><link>https://hu-aniu.github.io/post/Good%20Windows%20PE.html</link><description># FirPE&#13;
 &#13;
 也许是最适合年轻人使用的第三方WinPE~&#13;
 FirPE它具有简约、易操作、纯净无广等特点，使用起来十分人性化。</description><guid isPermaLink="true">https://hu-aniu.github.io/post/Good%20Windows%20PE.html</guid><pubDate>Mon, 02 Dec 2024 14:42:02 +0000</pubDate></item><item><title>Hello World</title><link>https://hu-aniu.github.io/post/Hello%20World.html</link><description># 你好！&#13;
 &#13;
-2024年了，Alan Hu 终于有地方写文章了。</description><guid isPermaLink="true">https://hu-aniu.github.io/post/Hello%20World.html</guid><pubDate>Mon, 02 Dec 2024 05:20:12 +0000</pubDate></item><item><title>about me</title><link>https://hu-aniu.github.io/about.html</link><description>你好！我是Alan Hu，一个帅出天际的帅哥！😜&#13;
-&#13;
-江西南昌人&#13;
+2024年了，Alan Hu 终于有地方写文章了。</description><guid isPermaLink="true">https://hu-aniu.github.io/post/Hello%20World.html</guid><pubDate>Mon, 02 Dec 2024 05:20:12 +0000</pubDate></item><item><title>about me</title><link>https://hu-aniu.github.io/about.html</link><description>### 你好！&#13;
+我是胡德华，一个帅出天际的帅哥！😜&#13;
+江西南昌人🍜&#13;
 平时爱听歌🎧，写音乐🎸，玩游戏🎮，敲代码⌨️&#13;
 分享一些代码，一些科研，以及生活😄&#13;
-Nice to meet you!🤝。</description><guid isPermaLink="true">https://hu-aniu.github.io/about.html</guid><pubDate>Mon, 02 Dec 2024 05:27:36 +0000</pubDate></item></channel></rss>
+&#13;
+### Hello!&#13;
+I'm Alan Hu, Nice to meet you!🤝&#13;
+I'm from Nanchang, Jiangxi, China 🍜&#13;
+I usually enjoy listening to music 🎧， Write music 🎸， play a game 🎮， Type code ⌨️&#13;
+Share some code, research, and daily life 😄&#13;
+&#13;
+### Hallo&#13;
+Ich bin Alan Hu, ein gutaussehender Kerl, der am Himmel auffällt! 😜&#13;
+Ich komme aus Nanchang, Jiangxi, China 🍜&#13;
+Ich höre normalerweise gerne Musik. 🎧， Musik schreiben 🎸， ein Spiel spielen 🎮， Typencode ⌨️&#13;
+Teilen Sie Code und Alltag 😄&#13;
+&#13;
+### こんにちは&#13;
+私はAlan Huです。</description><guid isPermaLink="true">https://hu-aniu.github.io/about.html</guid><pubDate>Mon, 02 Dec 2024 05:27:36 +0000</pubDate></item></channel></rss>
